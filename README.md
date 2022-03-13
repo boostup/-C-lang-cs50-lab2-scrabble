@@ -3,8 +3,8 @@
 ## Problem Set 1
 
 ### Mario
-[Submitted code](https://submit.cs50.io/users/boostup/cs50/problems/2022/x/mario/more)
-[Submit result](https://submit.cs50.io/check50/271d12eacbc1d4ea793fb5c57fbb899388370fb7)
+- [Submitted code](https://submit.cs50.io/users/boostup/cs50/problems/2022/x/mario/more)
+- [Submit result](https://submit.cs50.io/check50/271d12eacbc1d4ea793fb5c57fbb899388370fb7)
 
 ### Credit
 NOT SUBMITTED
