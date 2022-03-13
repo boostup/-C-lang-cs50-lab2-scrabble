@@ -7,7 +7,14 @@
 
 # Week 1
 
-[Mario requirements](https://cs50.harvard.edu/x/2022/psets/1/mario/more/)
+## Mario
+
+- [Mario requirements](https://cs50.harvard.edu/x/2022/psets/1/mario/more/)
+
+## Credit
+
+- [Credit requirements](https://cs50.harvard.edu/x/2022/psets/1/credit/)
+- [Test cards](https://developer.paypal.com/api/nvp-soap/payflow/integration-guide/test-transactions/#standard-test-cards)
 
 # Week 2
 
