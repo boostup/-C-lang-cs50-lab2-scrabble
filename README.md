@@ -12,8 +12,8 @@ NOT SUBMITTED
 # Week 2
 
 ## Lab 2 - Scrabble
-[Submitted code](https://submit.cs50.io/users/boostup/cs50/labs/2022/x/scrabble)
-[Submit result](https://submit.cs50.io/check50/e8be511a5fdc86d3a739294417f3e6b094332568)
+- [Submitted code](https://submit.cs50.io/users/boostup/cs50/labs/2022/x/scrabble)
+- [Submit result](https://submit.cs50.io/check50/e8be511a5fdc86d3a739294417f3e6b094332568)
 
 ## Problem Set 2
 
