@@ -9,7 +9,8 @@
 
 ## Mario
 
-- [Mario requirements](https://cs50.harvard.edu/x/2022/psets/1/mario/more/)
+- [Mario-less requirements](https://cs50.harvard.edu/x/2022/psets/1/mario/less/)
+- [Mario-more requirements](https://cs50.harvard.edu/x/2022/psets/1/mario/more/)
 
 ## Credit
 
