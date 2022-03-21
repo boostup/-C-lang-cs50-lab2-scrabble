@@ -23,4 +23,6 @@
 
 # Week 2
 
-[Scrabble requirements](https://cs50.harvard.edu/x/2022/labs/2/)
+- [Scrabble requirements](https://cs50.harvard.edu/x/2022/labs/2/)
+- [Readability requirements](https://cs50.harvard.edu/x/2022/psets/2/readability/)
+- [Ceaser requirements](https://cs50.harvard.edu/x/2022/psets/2/caesar/)
