@@ -73,6 +73,7 @@ int main(int argc, char *argv[])
         }
     }
 
+    fclose(jpegFilePtr);
     fclose(memCardPtr);
     free(buffer);
 }
